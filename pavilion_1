@@ -89,7 +89,7 @@
       }
     ]
   },
-   "structure": "https://raw.githubusercontent.com/filippograssi/JSON/main/pavilion_1_structure.json",
+  "structure": "https://raw.githubusercontent.com/filippograssi/JSON/main/pavilion_1_structure.json",
   "library": "https://raw.githubusercontent.com/filippograssi/JSON/main/pavilion_1_library.json",
   "pictures": {
     "en": "https://github.com/filippograssi/JSON/blob/main/pavilion_1_pictures_en.json",
